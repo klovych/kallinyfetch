@@ -4,7 +4,7 @@ This code was written from the heart in just one hour. I hope there will be no e
 
 
 📋 Requirements
-1. Ensure you have a C compiler installed.
+Ensure you have a C compiler installed.
 Kalinyfetch requires GCC (GNU Compiler Collection) or an equivalent C compiler. Check if GCC is installed by running:
 gcc --version
 
@@ -13,7 +13,7 @@ gcc --version
 This code was written from the heart in just one hour. I hope there will be no errors! ❤️
 
 📋 Requirements
-1. Ensure you have a C compiler installed.
+Ensure you have a C compiler installed.
 Kallinyfetch requires GCC (GNU Compiler Collection) or an equivalent C compiler. Check if GCC is installed by running:
 
 gcc --version
