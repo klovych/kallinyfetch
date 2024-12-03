@@ -1,5 +1,7 @@
 🌟 Kallinyfetch
 This code was written from the heart in just one hour. I hope there will be no errors! ❤️
+![image](https://github.com/user-attachments/assets/66048a45-e88d-40f2-bf30-58b72272c663)
+
 
 📋 Requirements
 1. Ensure you have a C compiler installed.
