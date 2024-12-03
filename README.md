@@ -31,3 +31,5 @@ gcc kallinyfetch.c -o kallinyfetch
 3. Run the program:
 After successful compilation, execute the program with:
 ./kallinyfetch
+
+🌟 Thank You for Using Kalinyfetch!
