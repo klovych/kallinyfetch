@@ -5,18 +5,9 @@ This code was written from the heart in just one hour. I hope there will be no e
 
 📋 Requirements
 Ensure you have a C compiler installed.
-Kalinyfetch requires GCC (GNU Compiler Collection) or an equivalent C compiler. Check if GCC is installed by running:
+1. Kalinyfetch requires GCC (GNU Compiler Collection) or an equivalent C compiler. Check if GCC is installed by running:
 gcc --version
 
-
-🌟 Kallinyfetch
-This code was written from the heart in just one hour. I hope there will be no errors! ❤️
-
-📋 Requirements
-Ensure you have a C compiler installed.
-Kallinyfetch requires GCC (GNU Compiler Collection) or an equivalent C compiler. Check if GCC is installed by running:
-
-gcc --version
 If GCC is not installed, you can install it using the following commands based on your operating system:
 
 For Ubuntu/Debian:
